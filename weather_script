@@ -1,0 +1,5 @@
+#!/bin/bash
+weatherman -e "Toronto, ON" | zenity --text-info --width=490 --height=420 --title='Local Weather'
+
+##CHANGE AS NEEDED
+##VIDEO http://youtu.be/3qWZHvHLi5M
